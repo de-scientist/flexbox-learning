@@ -3,3 +3,19 @@
   margin: 0;
   padding: 0;
 }
+
+:root {
+  --primary-color: #f4512c;
+  --primary-color-dark: #f53f50;
+  --color-white: #fff;
+  --color-black: #292929;
+  --clor-grey: #818481;
+  --color-grey-light: #f8f9fa;
+  --color-grey-lighter: #f0f0f0;
+  --primary-font: Poppins, sans-serif;
+}
+
+body {
+  font-family: var(--primary-font);
+  
+}
