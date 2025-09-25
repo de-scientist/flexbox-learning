@@ -5,9 +5,19 @@
 .flex-container {
   display: flex;
   flex-direction: column-reverse ;
-  justify-content: center;
+  justify-content: space-around;
+  border: 3px solid blue;
+  gap: 20px;
+  align-items: center;
 }
 
 .item {
+  border: 2px red;
+ justify-content: space-between;
+ background-color: aqua;
+ flex-grow: ;
+}
 
+item3 {
+  align-self: flex-end;
 }
