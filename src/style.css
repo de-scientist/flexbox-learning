@@ -30,7 +30,7 @@ body {
 .header-top {
   display: flex;
   justify-content: space-around;
-  align-items: ;
+  align-items: center;
 }
 
 .header-contact {
